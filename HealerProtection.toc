@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: HealerProtection
+## Notes: Alert your group when you run out of mana, take aggro, or are about to die! Designed for OctoWow.
+## Author: Dusk92
+## Version: 1.0-OctoWow
+## SavedVariablesPerCharacter: HPTABPC
+## OptionalDeps: SuperWow, ClassicAPI, NamPower
+
+# Fichiers de l'addon
+core.lua
