@@ -1,10 +1,8 @@
 ## Interface: 11200
 ## Title: HealerProtection
-## Notes: Alert your group when you run out of mana, take aggro, or are about to die! Designed for OctoWow.
+## Notes: Lightweight healer alerts for Turtle WoW 1.12.1: mana, health, death and aggro.
 ## Author: Dusk92
-## Version: 1.0-OctoWow
+## Version: 1.1
 ## SavedVariablesPerCharacter: HPTABPC
-## OptionalDeps: SuperWow, ClassicAPI, NamPower
 
-# Fichiers de l'addon
 core.lua
